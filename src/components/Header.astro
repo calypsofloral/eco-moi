@@ -1,15 +1,17 @@
 ---
 import { SITE_TITLE } from '../consts';
 import HeaderLink from './HeaderLink.astro';
+const base = import.meta.env.BASE_URL;
+const base3 = base === '/' ? '' : `${base}`;
 ---
 
 <header>
 	<nav>
-		<h2><a href="/">{SITE_TITLE}</a></h2>
+		<h2><a href={`${base3}/`}>{SITE_TITLE}</a></h2>
 		<div class="internal-links">
-			<HeaderLink href="/">Home</HeaderLink>
-			<HeaderLink href="/blog">Blog</HeaderLink>
-			<HeaderLink href="/about">About</HeaderLink>
+			<HeaderLink href={`${base3}/`}>Home</HeaderLink>
+			<HeaderLink href={`${base3}/blog`}>Blog</HeaderLink>
+			<HeaderLink href={`${base3}/about`}>About</HeaderLink>
 		</div>
 		<div class="social-links">
 			<a href="https://github.com/calypsofloral/eco-moi" target="_blank">
