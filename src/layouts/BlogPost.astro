@@ -1,5 +1,5 @@
 ---
-import { Image } from 'astro:assets';
+//import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import FormattedDate from '../components/FormattedDate.astro';
@@ -7,7 +7,8 @@ import SideMenu from '../components/SideMenu.astro';
 
 type Props = CollectionEntry<'blog'>['data'];
 
-const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+//const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
+const { title, description, pubDate, updatedDate } = Astro.props;
 ---
 
 <html lang="en">
@@ -18,15 +19,16 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				display: flex;
 				flex-flow: row nowrap;
 				justify-content: space-between;
+				gap: 0;
 			}
 			main {
-				width: 70%;
+				width: 100%;
 				margin: 0;
 			}
 			nav {
-				min-width: 20%;
+				width: 15rem;
 				margin: 0;
-				background-color: darkgreen;
+				background-color: darkViolet;
 			}
 			.hero-image {
 				width: 100%;
@@ -60,15 +62,22 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			.last-updated-on {
 				font-style: italic;
 			}
+			article.blogTitle {
+				background-color: darkViolet;
+			}
 		</style>
 	</head>
 
 	<body>
 		<main>
+			<article class="blogTitle">
+				<h1>ECO-Moi</h1>
+				<p>The eco blog.</p>
+			</article>
 			<article>
-				<div class="hero-image">
+				<!--div class="hero-image">
 					{heroImage && <Image width={1020} height={510} src={heroImage} alt="" />}
-				</div>
+				</div-->
 				<div class="prose">
 					<div class="title">
 						<div class="date">
