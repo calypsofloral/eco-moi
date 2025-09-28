@@ -1,9 +1,10 @@
 ---
-//import { Image } from 'astro:assets';
+import { Image } from 'astro:assets';
 import type { CollectionEntry } from 'astro:content';
 import BaseHead from '../components/BaseHead.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import SideMenu from '../components/SideMenu.astro';
+import EcomoiImage from '../assets/ecomoi.svg';
 
 type Props = CollectionEntry<'blog'>['data'];
 
@@ -64,6 +65,8 @@ const { title, description, pubDate, updatedDate } = Astro.props;
 			}
 			article.blogTitle {
 				background-color: darkViolet;
+				display: flex;
+				justify-content: center;
 			}
 		</style>
 	</head>
@@ -71,8 +74,9 @@ const { title, description, pubDate, updatedDate } = Astro.props;
 	<body>
 		<main>
 			<article class="blogTitle">
-				<h1>ECO-Moi</h1>
-				<p>The eco blog.</p>
+				<!--h1>ECO-Moi</h1>
+				<p>The eco blog.</p-->
+				<Image width={500} src={EcomoiImage} alt="" />
 			</article>
 			<article>
 				<!--div class="hero-image">
