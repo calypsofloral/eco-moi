@@ -2,41 +2,22 @@
 title: 'Troise'
 description: 'Le troisieme message'
 pubDate: 'Septembre 28 2025'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/p01.jpg'
 ---
 
-Aujourd'hui nous allons compter jusqu'a 15.
+Aujourd'hui nous allons faire du bricollage.
 
-1
+![etape 1](../../assets/p01.jpg)
+![etape 2](../../assets/p02.jpg)
+![etape 3](../../assets/p03.jpg)
+![etape 4](../../assets/p04.jpg)
+![etape 5](../../assets/p05.jpg)
+![etape 6](../../assets/p06.jpg)
+![etape 7](../../assets/p07.jpg)
+![etape 8](../../assets/p08.jpg)
+![etape 9](../../assets/p09.jpg)
+![etape 10](../../assets/p10.jpg)
 
-2
-
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-10
-
-11
-
-12
-
-13
-
-14
-
-15
-
-Voila, c'est fait!
+Voila, c'est fini!
 
 A la semaine prochaine.
