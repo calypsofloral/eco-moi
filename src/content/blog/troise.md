@@ -1,11 +1,12 @@
 ---
-title: 'Troise'
-description: 'Le troisieme message'
-pubDate: 'Septembre 28 2025'
+title: 'Le ptit porte-monnaie'
+description: 'Un porte-monnaie DIY'
+pubDate: 'Octobre 05 2025'
 heroImage: '../../assets/p01.jpg'
 ---
 
-Aujourd'hui nous allons faire du bricollage.
+<h3>De la brique de lait</h3>
+<h3>Au porte-monnaie</h3>
 
 ![etape 1](../../assets/p01.jpg)
 ![etape 2](../../assets/p02.jpg)
@@ -18,6 +19,4 @@ Aujourd'hui nous allons faire du bricollage.
 ![etape 9](../../assets/p09.jpg)
 ![etape 10](../../assets/p10.jpg)
 
-Voila, c'est fini!
-
-A la semaine prochaine.
+Lala
