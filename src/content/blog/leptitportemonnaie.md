@@ -1,12 +1,12 @@
 ---
-title: 'Le ptit porte-monnaie'
+title: 'De la brique de lait au porte-monnaie'
 description: 'Un porte-monnaie DIY'
 pubDate: 'Octobre 05 2025'
 heroImage: '../../assets/p01.jpg'
 ---
 
-<h3>De la brique de lait</h3>
-<h3>Au porte-monnaie</h3>
+<!--h3>De la brique de lait</h3>
+<h3>Au porte-monnaie</h3-->
 
 ![etape 1](../../assets/p01.jpg)
 ![etape 2](../../assets/p02.jpg)
