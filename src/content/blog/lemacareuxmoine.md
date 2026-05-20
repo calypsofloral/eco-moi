@@ -12,6 +12,8 @@ Fatercula artica
 
 ### apparence physique
 
+![Apparence physique](../../assets/Papageitaucher_Fratercula_arctica_02.jpg.jpg)
+
 La hauteur du macareux moine varie entre 28 et 30 cm. Lorsqu’il a les ailes deployées sa longueur varie entre 50 et 60 cm. Il pèse entre 320g et 550g.
 Le macareux moine a un corps rondelet et une grande tete. Il a un bec massif et coloré donc orange, jaune et gris. Cet oiseau a des ailes courtes une queue courte et des pattes courtes et palmées. Son plumage sont noir et blanches. 
 
