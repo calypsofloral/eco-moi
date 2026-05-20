@@ -10,7 +10,7 @@ heroImage: '../../assets/p01.jpg'
 Le macareux moine
 Fatercula artica
 
-![Apparence physique](../../assets/macaeuxheureuxmaisboiteux.png)
+![Apparence physique](../../asset/Screenshot from 2026-05-20 20-44-47.png)
 
 ### apparence physique
 
