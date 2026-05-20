@@ -1,7 +1,7 @@
 ---
 title: 'Le macareux moine'
 description: 'Le mancareux moine'
-pubDate: 'Avril 18 2026'
+pubDate: 'April 18 2026'
 heroImage: '../../assets/p01.jpg'
 ---
 
