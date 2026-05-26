@@ -17,11 +17,11 @@ Fatercula artica
 La hauteur du macareux moine varie entre 28 et 30 cm. Lorsqu’il a les ailes deployées sa longueur varie entre 50 et 60 cm. Il pèse entre 320g et 550g.
 Le macareux moine a un corps rondelet et une grande tete. Il a un bec massif et coloré donc orange, jaune et gris. Cet oiseau a des ailes courtes une queue courte et des pattes courtes et palmées. Son plumage sont noir et blanches. 
 
-![Apparence physique](../../assets/rejoindresaintdomingue.png)
+![Apparence physique](../../assets/rejoindresaintdominguevr.png)
 
 ### Mode de vie
 
-Le macareux moine est repartie en Atlantique du Nord en Europe et en Russie. Les macareux moine sont une éspéce c’est a dire qu’elle vit principalement en mer et ne revient sur terre que pour la periode de la nidification. Ils sont carnivores (ils mangent de la viande) et piscivores (ils se nourrissent de poissons). Le macareux moine se nourrit principalement de poissons de crustacés et de mollusques. Les macareux moine sont gregaires (ils vivent en groupes). Leur age maximum est entre 20 et 25 ans.
+Le macareux moine est repartie en Atlantique du Nord en Europe et en Russie. Les macareux moine sont une éspece c’est a dire qu’elle vit principalement en mer et ne revient sur terre que pour la periode de la nidification. Ils sont carnivores (ils mangent de la viande) et piscivores (ils se nourrissent de poissons). Le macareux moine se nourrit principalement de poissons de crustacés et de mollusques. Les macareux moine sont gregaires (ils vivent en groupes). Leur age maximum est entre 20 et 25 ans.
 
 ### Diminution de la population
 
