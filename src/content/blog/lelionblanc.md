@@ -27,7 +27,11 @@ CAUSES DE LEUR DISPARITION
 
 - trafic d'animaux sauvages
 - perte d'habitat naturel (changement climatique,atraction humaines)
-- mise en captivité (1)
+- mise en captivité (voir en dessous)
 - faibles taut de natalité donc faible descendance
 
 EN CAPTIVITÉ
+
+Pour commencer: pourquoi lions blancs sont-ils mit en captivité ? 
+Etant donné que les lions blancs sont rares, les voir et les achetés est plus cher que pour les autres lions. 
+Bien que lorsque les lions blancs sont en captivité, ils peuvent être soignés plus rapidement et facilement plusieurs containtes se présente pour un lion blanc. Tout d'abord, ils sont forcés à se reproduire tous les ans alors que ils ne s'accouplent qu'une fois tous les deux ans lorsqu'ls sont en liberté, ceci peut créer des problèmes pour la femelle puisque vu que les petits ont besoin de leurs mères pendant deux ansla femelle doit s'occuper du double de petits. Et puis, puisque les élevages 
